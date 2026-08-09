@@ -15,3 +15,4 @@ Character-based personal storage system. Each player gets their own persistent l
 - Customizable webhook name and avatar image
 
 **Dependencies:** ESX, ox_lib, ox_inventory, oxmysql
+Preview - https://www.youtube.com/watch?v=-ip1DKC3laA
